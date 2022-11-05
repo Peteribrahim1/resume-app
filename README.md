@@ -6,7 +6,7 @@ This application is a mobile version of my resume, it displays my picture, name,
 The code base is structured to have a folder which i named screens containing all the screens in the app, and another folder that i named utils containing other classes i used in the implementation of this app. The screens folder has 3 dart files which are splash_screen, home_screen and more_info_screen while the utils folder has 4 dart files which i named strings, styles, theme_shared_prefrence and themeModel. The styles folder contains all the text styling and colors used in the app and i call them in my code whenever i need them. The string file contains only the long texts used on the app. The theme_shared_prefrence and themeModel files were part of what I used for the implementation of my dark/light mode.
 
 ## DESCRIPTION OF DESIGN
-   This design was created by me while coding the app. Its a very simple, clean, user friendly yet unique design. The first screen that comes up after launching the      app is the splash screen and then the home screen which contains the major content of the app, from there a button when tapped will take the user to the next screen    with more information about the resume.
+I came up with the design myself. Its a very simple, clean, user friendly yet unique design. The first screen that comes up after launching the app is the splash screen and then the home screen which contains the major content of the app, from there a button when tapped will take the user to the next screen with more information about the resume.
 
 ## DESCRIPTION OF LIBRARIES USED
 1. ### switcher_button
