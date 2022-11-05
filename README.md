@@ -28,7 +28,7 @@ I came up with the design myself. Its a very simple, clean, user friendly yet un
    I made use of this as the font family and style in my app.
 
 ## FEATURES I WOULD LOVE TO ADD IF I HAD MORE TIME
-   Automatic language detector and switching
+   Automatic language detector.
 
 ## CHALLENGES FACED AND HOW I OVERCAME
    I had challenge at first while trying to come up with a design for this app because no design was given, but i later got inspiration from different designs i have      workded on in the past and then came up with this.
