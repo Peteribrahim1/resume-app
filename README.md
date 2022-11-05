@@ -35,4 +35,4 @@ I came up with the design myself. Its a very simple, clean, user friendly yet un
    I also had a little challenge while implenting the dark mode feature, then i checked online for resources and overcame the challenge and it was a success.
 
 ## MY APPETIZE.IO LINK TO THE APP
-   https://appetize.io/app/auudcdnclyadywjuhrauo5zjrm
+   https://appetize.io/app/udi7igdgnsxocbyv6yciij2sry
